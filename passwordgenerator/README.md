@@ -19,7 +19,7 @@ Run dev server. Navigate to http://localhost:5173/. The app will automatically r
 **Further help**
 To get more help on the Vite setup checkout this refernce page:https://vitejs.dev/guide/
 
-**Screebshots of the project:**
+**Screenshot of the project:**
 
 
 <img width="430" alt="Screenshot 2023-09-13 152308" src="https://github.com/deepakshi29arora/password_generator/assets/65848080/73859422-debe-4425-ba53-7adb6796cf5e">
